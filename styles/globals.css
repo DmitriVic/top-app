@@ -27,7 +27,11 @@ a {
 	 background: #F5F6F8;
   }
 }
-
+.container{
+	padding: 0 50px;
+	margin: 0 auto;
+	max-width: 1440px;
+}
 :root {
 	--black: #3B434E;
 	--gray-light: #EBEBEB;
